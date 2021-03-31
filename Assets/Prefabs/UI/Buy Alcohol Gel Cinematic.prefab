@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3457896004917549734
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3457896004917549735}
+  - component: {fileID: 3457896004917549729}
+  - component: {fileID: 3457896004917549728}
+  - component: {fileID: 489347955531459653}
+  m_Layer: 5
+  m_Name: Buy Alcohol Gel Cinematic
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &3457896004917549735
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3457896004917549734}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.1, y: 0.1}
+  m_AnchorMax: {x: 0.9, y: 0.9}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &3457896004917549729
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3457896004917549734}
+  m_CullTransparentMesh: 0
+--- !u!114 &3457896004917549728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3457896004917549734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 1
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!114 &489347955531459653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3457896004917549734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a062f11b00967894882f1f58664d9c03, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buyAlcoholGelSprites:
+  - {fileID: 21300000, guid: c2540c93d6c7a364bb5554761803b2bc, type: 3}
+  - {fileID: 21300000, guid: 25a14e2fed88e40488e3520d6faf499c, type: 3}
+  - {fileID: 21300000, guid: 9397ec2ca61b28f4aab0f60ecbaeddde, type: 3}
+  - {fileID: 21300000, guid: 825ccb3781b180545b5cbf0179521395, type: 3}
+  - {fileID: 21300000, guid: 3d7dc56b5383ed84685fb14459fa69b2, type: 3}
+  - {fileID: 21300000, guid: c5ff52b484840a64ca7505226eec465b, type: 3}
+  - {fileID: 21300000, guid: 63c6208a490461f40b301f986a077af6, type: 3}
+  - {fileID: 21300000, guid: 81ab3dd89d6cb994cb726c23c379f568, type: 3}
+  - {fileID: 21300000, guid: 67c56227dcf3b744ea61bdf6e9d9a429, type: 3}
+  - {fileID: 21300000, guid: 4b177420a5a930e45a855b8834b33d26, type: 3}
+  - {fileID: 21300000, guid: 89e8c3e438502a143bfb77d8392923b4, type: 3}
+  buyAlcoholGelImage: {fileID: 3457896004917549728}
+  secondsPerImage: 1

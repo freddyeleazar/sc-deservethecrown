@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shoot Avatar Mask
+  m_Mask: 00000000000000000000000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: BigHeads floor
+    m_Weight: 1
+  - m_Path: BigHead_base
+    m_Weight: 1
+  - m_Path: BigHeads
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Footsteps
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads Neck
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads Neck/BigHeads
+      Head
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads Neck/BigHeads
+      Head/BigHeads HeadNub
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads L Clavicle
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads L Clavicle/BigHeads
+      L UpperArm
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads L Clavicle/BigHeads
+      L UpperArm/BigHeads L Forearm
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads L Clavicle/BigHeads
+      L UpperArm/BigHeads L Forearm/BigHeads L Hand
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads L Clavicle/BigHeads
+      L UpperArm/BigHeads L Forearm/BigHeads L Hand/BigHeads L Finger0
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads L Clavicle/BigHeads
+      L UpperArm/BigHeads L Forearm/BigHeads L Hand/BigHeads L Finger0/BigHeads L
+      Finger01
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads L Clavicle/BigHeads
+      L UpperArm/BigHeads L Forearm/BigHeads L Hand/BigHeads L Finger0/BigHeads L
+      Finger01/BigHeads L Finger0Nub
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads L Clavicle/BigHeads
+      L UpperArm/BigHeads L Forearm/BigHeads L Hand/BigHeads L Finger1
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads L Clavicle/BigHeads
+      L UpperArm/BigHeads L Forearm/BigHeads L Hand/BigHeads L Finger1/BigHeads L
+      Finger11
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads L Clavicle/BigHeads
+      L UpperArm/BigHeads L Forearm/BigHeads L Hand/BigHeads L Finger1/BigHeads L
+      Finger11/BigHeads L Finger1Nub
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads L Clavicle/BigHeads
+      L UpperArm/BigHeads L Forearm/BigHeads L Hand/BigHeads L Finger2
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads L Clavicle/BigHeads
+      L UpperArm/BigHeads L Forearm/BigHeads L Hand/BigHeads L Finger2/BigHeads L
+      Finger21
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads L Clavicle/BigHeads
+      L UpperArm/BigHeads L Forearm/BigHeads L Hand/BigHeads L Finger2/BigHeads L
+      Finger21/BigHeads L Finger2Nub
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads R Clavicle
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads R Clavicle/BigHeads
+      R UpperArm
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads R Clavicle/BigHeads
+      R UpperArm/BigHeads R Forearm
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads R Clavicle/BigHeads
+      R UpperArm/BigHeads R Forearm/BigHeads R Hand
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads R Clavicle/BigHeads
+      R UpperArm/BigHeads R Forearm/BigHeads R Hand/BigHeads R Finger0
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads R Clavicle/BigHeads
+      R UpperArm/BigHeads R Forearm/BigHeads R Hand/BigHeads R Finger0/BigHeads R
+      Finger01
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads R Clavicle/BigHeads
+      R UpperArm/BigHeads R Forearm/BigHeads R Hand/BigHeads R Finger0/BigHeads R
+      Finger01/BigHeads R Finger0Nub
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads R Clavicle/BigHeads
+      R UpperArm/BigHeads R Forearm/BigHeads R Hand/BigHeads R Finger1
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads R Clavicle/BigHeads
+      R UpperArm/BigHeads R Forearm/BigHeads R Hand/BigHeads R Finger1/BigHeads R
+      Finger11
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads R Clavicle/BigHeads
+      R UpperArm/BigHeads R Forearm/BigHeads R Hand/BigHeads R Finger1/BigHeads R
+      Finger11/BigHeads R Finger1Nub
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads R Clavicle/BigHeads
+      R UpperArm/BigHeads R Forearm/BigHeads R Hand/BigHeads R Finger2
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads R Clavicle/BigHeads
+      R UpperArm/BigHeads R Forearm/BigHeads R Hand/BigHeads R Finger2/BigHeads R
+      Finger21
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads Spine/BigHeads Spine1/BigHeads R Clavicle/BigHeads
+      R UpperArm/BigHeads R Forearm/BigHeads R Hand/BigHeads R Finger2/BigHeads R
+      Finger21/BigHeads R Finger2Nub
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads L Thigh
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads L Thigh/BigHeads L Calf
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads L Thigh/BigHeads L Calf/BigHeads L
+      Foot
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads L Thigh/BigHeads L Calf/BigHeads L
+      Foot/BigHeads L Toe0
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads L Thigh/BigHeads L Calf/BigHeads L
+      Foot/BigHeads L Toe0/BigHeads L Toe0Nub
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads R Thigh
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads R Thigh/BigHeads R Calf
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads R Thigh/BigHeads R Calf/BigHeads R
+      Foot
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads R Thigh/BigHeads R Calf/BigHeads R
+      Foot/BigHeads R Toe0
+    m_Weight: 1
+  - m_Path: BigHeads/BigHeads Pelvis/BigHeads R Thigh/BigHeads R Calf/BigHeads R
+      Foot/BigHeads R Toe0/BigHeads R Toe0Nub
+    m_Weight: 1
